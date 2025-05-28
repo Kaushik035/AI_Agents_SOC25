@@ -77,14 +77,6 @@ Generative AI stands out from traditional AI methods due to its ability to creat
 ### Example:
 - **Traditional AI**: A spam filter labels emails as spam or not using predefined rules.  
 - **Generative AI**: A chatbot crafts natural, context-aware replies to customer inquiries.
-
-**New Resource**:  
-- [The Power of Generative AI Explained](https://www.forbes.com/sites/bernardmarr/2023/05/15/the-power-of-generative-ai-explained/) – A fresh article breaking down why Generative AI is transformative.
-
-**Video**:  
-- [Generative AI vs. Traditional AI](https://www.youtube.com/watch?v=3Y3YwXk9jqc) – A concise comparison (5:12).
-
-
 ---
 
 ## Step 4: Integrate with Your Application
