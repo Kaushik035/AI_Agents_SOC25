@@ -2,6 +2,30 @@
 
 [⬅️ Back to Project Overview](../Readme.md)
 
+---
+
+## Index
+
+- [Topic 1: What is Generative AI?](#topic-1-what-is-generative-ai)
+- [Topic 2: How Does Generative AI Work?](#topic-2-how-does-generative-ai-work)
+- [Topic 3: Advantages of Generative AI Over Other AI Approaches](#topic-3-advantages-of-generative-ai-over-other-ai-approaches)
+- [Step 4: Integrate with Your Application](#step-4-integrate-with-your-application)
+  - [Step 4.1: Load the Generative Model](#step-41-load-the-generative-model)
+  - [Step 4.2: Design the Input Structure](#step-42-design-the-input-structure)
+  - [Step 4.3: Generate the Output](#step-43-generate-the-output)
+  - [Step 4.4: Process the Output](#step-44-process-the-output)
+  - [Step 4.5: Build a Simple Interface](#step-45-build-a-simple-interface)
+  - [Tips for Better Integration](#tips-for-better-integration-will-learn-all-these-things-further-in-course)
+- [Introduction to Better LLMs](#4-introduction-to-better-llms)
+  - [Using Local LLMs](#31-using-local-llms)
+  - [Using API-based LLMs](#3-using-api-based-llms)
+- [Assignment](#assignment)
+- [Bonus: Basic Prompt Engineering](#bonus-basic-prompt-engineering-useful)
+
+---
+
+# Week 1: Generative AI and Its Foundations
+
 Welcome to Week 1 of the **Study Buddy Project**! This week, we’re embarking on an exciting journey into the world of Generative AI. Whether you’re new to AI or looking to deepen your understanding, this week will lay the groundwork for building your own AI-powered study assistant. We’ll explore what Generative AI is, how it works, its advantages, and how to use it in practical applications. You’ll also get hands-on with tools like LangChain, local language models, and the OpenAI API.
 
 By the end of this week, you’ll have a solid grasp of Generative AI basics and be ready to start experimenting with your own projects. Let’s get started!
