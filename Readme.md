@@ -1,4 +1,3 @@
-
 # 🤖 Intro to AI Agents – Study Buddy Project (8-Week Curriculum)
 
 This Project is part of https://wncc-soc.tech-iitb.org
@@ -11,11 +10,11 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
 
 ## 🗓Weekly Breakdown
 
-### **Week 1 – Agentic Foundations + Setup**
+### **Week 1 – FOUNDATION**
 
-* Intro to AI agents (ReAct, AutoGPT, Toolformer)
-* Set up LangChain / Transformers / LlamaIndex
-* **Mini-Project:** Prompt-based question answerer over Markdown notes
+* Intro to GEN AI and Basic prompting
+* **Mini-Project:** Prompt-based question answerer over Markdown notes  
+  👉 [Week 1 Overview](week1/week1.md) | [Assignment](week1/assignment.md)
 
 ---
 
