@@ -18,11 +18,8 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
 
 ---
 
-### **Week 2 – RAG Basics + Prompt Engineering**
-
-* Vector embeddings, chunking, indexing
-* RAG design patterns + best prompts
-* **Mini-Project:** RAG bot over personal notes or PDFs
+### **Week 2 – RAG and Vector DB**
+  👉 [Week 2 Notes](week2/material.md) | [Assignment](week2/assignment.md)
 
 ---
 
