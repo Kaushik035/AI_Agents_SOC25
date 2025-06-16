@@ -11,9 +11,6 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
 ## 🗓Weekly Breakdown
 
 ### **Week 1 – FOUNDATION**
-
-* Intro to GEN AI and Basic prompting
-* **Mini-Project:** Prompt-based question answerer over Markdown notes  
   👉 [Week 1 Overview](week1/week1.md) | [Assignment](week1/assignment.md)
 
 ---
@@ -24,7 +21,7 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
 ---
 
 ### **Week 3 – Tools + Memory**
-  👉 [Week 2 Notes](week3/notes.md) | [Assignment](week3/assignment.md)
+  👉 [Week 3 Notes](week3/notes.md) | [Assignment](week3/assignment.md)
 
 
 ---
