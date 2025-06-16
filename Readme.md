@@ -24,10 +24,8 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
 ---
 
 ### **Week 3 – Tools + Memory**
+  👉 [Week 2 Notes](week3/notes.md) | [Assignment](week3/assignment.md)
 
-* Use APIs (search, Wikipedia)
-* Memory: short-term vs long-term
-* **Mini-Project:** RAG bot with memory + one external tool
 
 ---
 
