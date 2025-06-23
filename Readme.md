@@ -25,4 +25,4 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
 
 
 ### **Week 4 – Reasoning
-  👉 [Week 3 Notes](week4/material.md) | [Assignment](week4/assignment.md)
+  👉 [Week 4 Notes](week4/material.md) | [Assignment](week4/assignment.md)
