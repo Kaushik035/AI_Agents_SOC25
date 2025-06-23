@@ -24,48 +24,5 @@ Welcome to the **Study Buddy Project**, an 8-week hands-on curriculum to learn a
   👉 [Week 3 Notes](week3/notes.md) | [Assignment](week3/assignment.md)
 
 
----
-
-### **Week 4 – Multi-turn + Context-Aware Agents**
-
-* Planning and toolchains with LangChain AgentExecutor / OpenAI function calling
-* Persona-based agents
-* **Mini-Project:** Conversational bot that remembers context
-
----
-
-### **Week 5 – Agent Design Patterns + Autonomy**
-
-* Tool-using vs Planning agents
-* Autonomous loops, retries, and self-evaluation
-* **Mini-Project:** Multi-agent “Study Plan Creator”
-
----
-
-### **Week 6 – Evaluation + Guardrails**
-
-* Ethical concerns and safety layers
-* User feedback collection
-* Logging and monitoring basics
-* **Mini-Project:** Add feedback, error logging, and basic evaluation
-
----
-
-### **Week 7 – Personalization + UI**
-
-* Personalized responses via user profiling
-* React / Streamlit / Gradio frontend
-* **Mini-Project:** Hosted chatbot with basic UI and personalization
-
----
-
-### **Week 8 – Final Showcase Project**
-
-Build your **fully functional AI Study Buddy Agent**:
-
-* Document QnA via RAG
-* Multi-turn chat with memory
-* Tool usage
-* Feedback and basic guardrails
-* Web UI + Hosting
-
+### **Week 4 – Reasoning
+  👉 [Week 3 Notes](week4/material.md) | [Assignment](week4/assignment.md)
