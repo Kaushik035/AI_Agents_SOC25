@@ -212,7 +212,7 @@ This function takes two numbers and returns their sum. Functions help organize c
 - **Biology**:
 ```
 A cell is the basic building block of life, the smallest unit that can perform all life processes. For example, a plant cell contains chloroplasts, which use sunlight to produce energy through a process called photosynthesis. Cells work together to form tissues and organisms.
-```
+
 
 ### Notes
 - **Detection**: Keyword-based detection is simple; improve with embeddings (e.g., `sentence-transformers`).
